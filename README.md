@@ -15,7 +15,7 @@ Projekt 2D jest to aplikacja umożliwiająca modyfikację obrazów 2D dostarczaj
 5. Resetowanie
    - Przywraca nam pierwotny stan obrazu
 
-#Użycie
+# Użycie
 1. Wgraj obrazu do programu
 2. Uruchom aplkikacje
 3. Wykonuj operacje na suwakach:
